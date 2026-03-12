@@ -1,3 +1,18 @@
+## 0.12.0 (2026-03-12)
+
+### 🚀 Features
+
+- add confluence skill body ([b827c6dd9](https://github.com/tech-leads-club/agent-skills/commit/b827c6dd9))
+- add ADR and RFC creation skills ([5a9dfc08f](https://github.com/tech-leads-club/agent-skills/commit/5a9dfc08f))
+
+### 🩹 Fixes
+
+- address PR #69 review comments on create-rfc and create-adr skills ([#69](https://github.com/tech-leads-club/agent-skills/issues/69))
+
+### ❤️ Thank You
+
+- Waldemar Neto
+
 ## 0.11.2 (2026-03-04)
 
 ### 🩹 Fixes

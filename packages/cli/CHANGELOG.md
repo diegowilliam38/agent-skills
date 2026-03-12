@@ -1,3 +1,17 @@
+## 1.4.3 (2026-03-12)
+
+### 🚀 Features
+
+- **core:** add markdown parser service ([b1c74f155](https://github.com/tech-leads-club/agent-skills/commit/b1c74f155))
+
+### 💅 Refactors
+
+- remove parsing utilities export from services index ([2bd70e444](https://github.com/tech-leads-club/agent-skills/commit/2bd70e444))
+
+### ❤️ Thank You
+
+- Edmar Paulino
+
 ## 1.4.2 (2026-03-03)
 
 This was a version bump only for @tech-leads-club/agent-skills to align it with other projects, there were no code changes.
