@@ -39,8 +39,8 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       images: [
         {
           url: '/og-image.png',
-          width: 1200,
-          height: 630,
+          width: 1024,
+          height: 537,
           alt: skill.name,
         },
       ],
