@@ -720,7 +720,7 @@
       ],
       "author": "Felipe Rodrigues - github.com/felipfr",
       "version": "1.0.0",
-      "contentHash": "98a300f20d76cf23dee8719dd910291a8013dd27770c6cdb7473dd595cc8a205"
+      "contentHash": "67eab096727beddf61ab8df40629d63cbb5fa828bb1e1f12ab494af444ce9015"
     },
     {
       "name": "excalidraw-studio",
@@ -1191,7 +1191,7 @@
       ],
       "author": "github.com/augusto-dmh",
       "version": "1.0.0",
-      "contentHash": "5eea41261c6c595a095e905e7608fc8c7f038301067a93c49a7cc98201500601"
+      "contentHash": "c816839b2d787a3edfe6e7efe5604978218add52e570476b6df8d4242d8c127c"
     },
     {
       "name": "rails-dev",
@@ -1602,7 +1602,7 @@
       ],
       "author": "Felipe Rodrigues - github.com/felipfr",
       "version": "1.0.0",
-      "contentHash": "d9e8d39cd6e4849526d87d8a5c6b55674588534ca4e8f3f4a8c149055ed39097"
+      "contentHash": "04b3931496ca41463620a960aee92babac280987d7621a9ab80f7d9ee158d229"
     },
     {
       "name": "tlc-generative-engine-optimization",
