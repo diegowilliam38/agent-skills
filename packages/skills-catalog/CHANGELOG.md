@@ -1,3 +1,24 @@
+## 0.17.1 (2026-07-31)
+
+### 🚀 Features
+
+- **skills-catalog:** add not-your-babysitter autonomous operator skill ([b2dd84bce](https://github.com/tech-leads-club/agent-skills/commit/b2dd84bce))
+- **skills-catalog:** add the-jury multi-agent decision skill ([fe11b7c2e](https://github.com/tech-leads-club/agent-skills/commit/fe11b7c2e))
+- **skills-catalog:** add evolutionary-modular-architecture skill ([433e0d4b9](https://github.com/tech-leads-club/agent-skills/commit/433e0d4b9))
+
+### 🩹 Fixes
+
+- **the-jury:** close tally.py input file with a context manager ([8fc111ee6](https://github.com/tech-leads-club/agent-skills/commit/8fc111ee6))
+- **pr-review:** prefer Jira CLI/MCP over curl REST URL examples ([8ce00b14b](https://github.com/tech-leads-club/agent-skills/commit/8ce00b14b))
+
+### 📖 Documentation
+
+- **skills:** cross-link the-jury and evolutionary-modular-architecture ([b6502aed9](https://github.com/tech-leads-club/agent-skills/commit/b6502aed9))
+
+### ❤️ Thank You
+
+- felipfr
+
 ## 0.17.0 (2026-07-18)
 
 ### 🚀 Features
