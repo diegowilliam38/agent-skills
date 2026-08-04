@@ -1,3 +1,37 @@
+## 0.17.2 (2026-08-04)
+
+### 🚀 Features
+
+- **tlc-spec-driven:** close task status in the same atomic commit ([916a86748](https://github.com/tech-leads-club/agent-skills/commit/916a86748))
+- **tlc-spec-driven:** reconcile resume against git evidence ([691ed5617](https://github.com/tech-leads-club/agent-skills/commit/691ed5617))
+- **tlc-spec-driven:** document deterministic gates and bump to 3.3.0 ([1c0a1d28a](https://github.com/tech-leads-club/agent-skills/commit/1c0a1d28a))
+- **tlc-spec-driven:** add model tier rubric to sub-agents.md ([b6afa35dc](https://github.com/tech-leads-club/agent-skills/commit/b6afa35dc))
+- **tlc-spec-driven:** wire validate_state into validate.md close ([612cb5cd1](https://github.com/tech-leads-club/agent-skills/commit/612cb5cd1))
+- **tlc-spec-driven:** wire check_commit and validate_state into implement ([2cd2da833](https://github.com/tech-leads-club/agent-skills/commit/2cd2da833))
+- **tlc-spec-driven:** wire validate_tasks and lint into tasks.md ([317ff94ac](https://github.com/tech-leads-club/agent-skills/commit/317ff94ac))
+- **tlc-spec-driven:** add Writing Voice guidance to coding-principles ([3d548b6d8](https://github.com/tech-leads-club/agent-skills/commit/3d548b6d8))
+- **tlc-spec-driven:** tighten AD-NNN recording gate in memory.md ([8ca5c1550](https://github.com/tech-leads-club/agent-skills/commit/8ca5c1550))
+- **tlc-spec-driven:** elicit one decision at a time in discuss.md ([77c239cf1](https://github.com/tech-leads-club/agent-skills/commit/77c239cf1))
+- **tlc-spec-driven:** expand specify.md to full EARS taxonomy ([ff7cbd179](https://github.com/tech-leads-club/agent-skills/commit/ff7cbd179))
+- **tlc-spec-driven:** add validate_state.py completion gate ([f9d2669b2](https://github.com/tech-leads-club/agent-skills/commit/f9d2669b2))
+- **tlc-spec-driven:** add check_commit.py for Conventional Commits ([e0bd557ed](https://github.com/tech-leads-club/agent-skills/commit/e0bd557ed))
+- **tlc-spec-driven:** add validate_tasks.py for task pre-approval checks ([d9cedb358](https://github.com/tech-leads-club/agent-skills/commit/d9cedb358))
+- **tlc-spec-driven:** add validate_spec.py for requirement closure gate ([e517c7c75](https://github.com/tech-leads-club/agent-skills/commit/e517c7c75))
+
+### 🩹 Fixes
+
+- **tlc-spec-driven:** invoke bundled scripts from the skill directory ([2a42c7416](https://github.com/tech-leads-club/agent-skills/commit/2a42c7416))
+- **tlc-spec-driven:** isolate discrimination sensor from the real worktree ([eca2f3202](https://github.com/tech-leads-club/agent-skills/commit/eca2f3202))
+- **tlc-spec-driven:** preserve non-ASCII in lesson key normalization ([0ecfc3220](https://github.com/tech-leads-club/agent-skills/commit/0ecfc3220))
+
+### 💅 Refactors
+
+- **tlc-spec-driven:** enhance discussion pacing and decision-making guidelines ([81be0b8b4](https://github.com/tech-leads-club/agent-skills/commit/81be0b8b4))
+
+### ❤️ Thank You
+
+- felipfr
+
 ## 0.17.1 (2026-07-31)
 
 ### 🚀 Features
