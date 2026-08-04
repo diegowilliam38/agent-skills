@@ -1626,7 +1626,7 @@
     },
     {
       "name": "tlc-spec-driven",
-      "description": "Feature planning and implementation with 4 adaptive phases — Specify, Design, Tasks, Execute. Auto-sizes depth by complexity. Creates atomic tasks with verification criteria, atomic git commits, and requirement traceability. Features an independent Verifier (author != verifier, evidence-or-zero), persistent decision log (STATE.md), and test-coverage-matrix-driven tests, plus a self-improving lessons layer that turns verification failures into reusable project-local guidance. Stack-agnostic. Use when (1) Planning features (requirements, design, task breakdown), (2) Implementing with verification and atomic commits, (3) Validating or verifying an implementation against a spec. Triggers on \"specify feature\", \"discuss feature\", \"design\", \"tasks\", \"implement\", \"validate\", \"verify work\", \"UAT\", \"record decision\", \"pause work\", \"resume work\". Do NOT use for architecture decomposition analysis (use architecture skills) or technical design docs (use create-technical-design-doc).",
+      "description": "Feature planning and implementation with 4 adaptive phases (Specify, Design, Tasks, Execute). Auto-sizes depth by complexity. Writes testable requirements in EARS notation, atomic tasks, atomic Conventional Commits, and requirement traceability. Ships deterministic Python validation scripts so structural gates are enforced by code, not memory. Features an independent Verifier (author != verifier, evidence-or-zero), a discrimination sensor, a decision log (STATE.md), a test-coverage matrix, and a self-improving lessons layer. Stack-agnostic and tool-agnostic. Use when (1) planning features, (2) implementing with verification and atomic commits, (3) validating an implementation against a spec. Triggers on \"specify feature\", \"discuss feature\", \"design\", \"tasks\", \"implement\", \"validate\", \"verify work\", \"UAT\", \"record decision\", \"pause work\", \"resume work\". Do NOT use for pure architecture decomposition analysis or standalone technical design documents.",
       "category": "development",
       "path": "(development)/tlc-spec-driven",
       "files": [
@@ -1643,11 +1643,15 @@
         "references/sub-agents.md",
         "references/tasks.md",
         "references/validate.md",
-        "scripts/lessons.py"
+        "scripts/check_commit.py",
+        "scripts/lessons.py",
+        "scripts/validate_spec.py",
+        "scripts/validate_state.py",
+        "scripts/validate_tasks.py"
       ],
       "author": "Felipe Rodrigues - github.com/felipfr",
-      "version": "3.2.0",
-      "contentHash": "e3d5c4dec38bff044207b31229fb28114d5fdb79f2c7200f3ec49a13a70024e1"
+      "version": "3.3.0",
+      "contentHash": "9f4c793556001f3210a2d9fe3b41bf24e82e581c522d8dd50f65addfee169a29"
     },
     {
       "name": "vercel-deploy",
