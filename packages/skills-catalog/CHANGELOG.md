@@ -1,3 +1,23 @@
+## 0.17.3 (2026-08-05)
+
+### 🚀 Features
+
+- **harness-eval:** sync v1.8.2 updates from upstream skill ([91593a3a2](https://github.com/tech-leads-club/agent-skills/commit/91593a3a2))
+- **harness-eval:** sync v1.6.0 updates from upstream skill ([ecbafed85](https://github.com/tech-leads-club/agent-skills/commit/ecbafed85))
+- **harness-eval:** sync v1.5.1 updates from upstream skill ([2a9802f95](https://github.com/tech-leads-club/agent-skills/commit/2a9802f95))
+- **harness-eval:** sync v1.5.0 updates from upstream skill ([5147fa63d](https://github.com/tech-leads-club/agent-skills/commit/5147fa63d))
+- **skills-catalog:** add harness-eval skill ([cba7f500c](https://github.com/tech-leads-club/agent-skills/commit/cba7f500c))
+
+### 🩹 Fixes
+
+- **harness-eval:** extract claims from all substantial lines ([ed2963e2c](https://github.com/tech-leads-club/agent-skills/commit/ed2963e2c))
+- **harness-eval:** hide plant labels from judge-facing decks ([7de3a5e27](https://github.com/tech-leads-club/agent-skills/commit/7de3a5e27))
+- **harness-eval:** remove stack-specific and leaky plant content ([ed66c8829](https://github.com/tech-leads-club/agent-skills/commit/ed66c8829))
+
+### ❤️ Thank You
+
+- Waldemar Neto @waldemarnt
+
 ## 0.17.2 (2026-08-04)
 
 ### 🚀 Features
